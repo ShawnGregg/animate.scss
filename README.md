@@ -6,6 +6,6 @@ Which is a port of Dan Eden's [Animate.css](http://daneden.github.io/animate.css
 
 Go to these places for more info.
 
-## What are you going?
+## What are you doing?
 
 Just making some mods so that it works with my sass setup and dropping the css and other files. 
